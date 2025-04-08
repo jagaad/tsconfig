@@ -1,9 +1,9 @@
 {
-	"name": "@jagaad/tsconfig-bases",
+	"name": "@jagaad/tsconfig",
 	"version": "0.2.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/jagaad/tsconfig-bases.git"
+		"url": "https://github.com/jagaad/tsconfig.git"
 	},
 	"license": "MIT",
 	"scripts": {
