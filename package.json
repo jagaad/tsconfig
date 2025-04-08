@@ -15,7 +15,7 @@
 		"prettier": "^3.4.2"
 	},
 	"files": [
-		"tsconfig.json"
+		"strict.json"
 	],
 	"prettier": "@jagaad/prettier-config"
 }
